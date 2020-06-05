@@ -31,4 +31,4 @@ To resolve I used to bash and type this command on root folder:
     export PYTHONPATH="$PWD"
 ```
 
-Some refs.: [](scratch)
+Some refs.:[scratch file](scratch)
